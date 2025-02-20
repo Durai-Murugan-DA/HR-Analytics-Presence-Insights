@@ -10,8 +10,9 @@
 ---
 
 This HR analytics project provides insights into employee presence, work-from-home (WFH) trends, and sick leave (SL) patterns. By analyzing attendance data, we aim to understand workforce presence percentages, identify trends, and recommend strategies to improve workforce management.
-
-![HR Analytics Dashboard]()
+## HR Analytics Dashboard Preview
+![HR Analytics Preview](
+https://github.com/Durai-Murugan-DA/HR-Analytics-Presence-Insights/blob/6286c428b1e1ba45f89da5d6c4b335d03fe09d0e/Presence_Insights.png)
 
 ### Data Sources
 
