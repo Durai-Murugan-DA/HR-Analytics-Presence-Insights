@@ -95,7 +95,10 @@ Based on the analysis, we recommend the following actions:
 |WFH %|9.88%|
 |SL %|1.07%|
 
-**bold**
+🏆 About the Author
+👤 Durai Murugan
+📧 [duraijeeva2017@gmail.com]
+🔗 [www.linkedin.com/in/durai-murugan-data-analyst]
 
-*italic*
+
 
