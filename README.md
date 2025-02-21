@@ -86,11 +86,8 @@ Based on the analysis, we recommend the following actions:
 
 ## 📂 Project File  
 
-📌 [SQL Query File - Covid Data Exploration]()  
+📌 [Project File - Covid Data Exploration](https://github.com/Durai-Murugan-DA/HR-Analytics-Presence-Insights/blob/f7261abc073f56140d794ca3cb62beb8e6d75224/HR_Analytics_Presence_insights.pbix)  
 
-😄
-
-💻
 
 |Metric|Value|
 |--------|--------|
