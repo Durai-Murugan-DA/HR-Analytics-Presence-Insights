@@ -84,6 +84,10 @@ Based on the analysis, we recommend the following actions:
 1. HR Analytics Best Practices by Industry Experts.
 2. [Power BI Documentation](https://powerbi.microsoft.com/)
 
+## 📂 Project File  
+
+📌 [SQL Query File - Covid Data Exploration]()  
+
 😄
 
 💻
